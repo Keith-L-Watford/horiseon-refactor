@@ -4,11 +4,12 @@
 <head>
     <meta charset="UTF-8" />
     <link rel="stylesheet" href="./assets/css/style.css">
-    <title>website</title>
+    <title>Horiseon</title>
+    <link rel="shortcut icon" type="image/jpg" href="./assets/images/horiseon-favicon.png">
 </head>
 
 <body>
-    <!-- header-->
+    <!-- header, which also contains nav bar-->
     <header class="header">
         <h1>Hori<span class="seo">seo</span>n</h1>
         <nav>
@@ -25,8 +26,10 @@
             </ul>
         </nav>
     </header>
+    <!-- The first big photo. Since the image is in the .css file and not .html, I added a aria-label tag instead of an alt. -->
+    <div class="hero" aria-label="A team of people work at a table to solve a problem."></div>
+
     <!-- Seach Engine Optimization -->
-    <div class="hero"></div>
     <div class="content">
         <div id="search-engine-optimization" class="search-engine-optimization">
             <img src="./assets/images/search-engine-optimization.jpg" class="float-left" alt="A note book with SEO writen in the middle. The words 'backlink', 'content', 'link building', 'mobile compatibility', 'headings', & 'social media' float around it." />
@@ -86,12 +89,12 @@
         </div>
     </aside>
     <!-- the footer -->
-    <div class="footer">
+    <footer class="footer">
         <h2>Made with ❤️️ by Horiseon</h2>
         <p>
             &copy; 2019 Horiseon Social Solution Services, Inc.
         </p>
-    </div>
+    </footer>
 </body>
 
 </html>
