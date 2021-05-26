@@ -40,16 +40,19 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-/*  */
+
+/* the links */
 a {
     color: #ffffff;
     text-decoration: none;
 }
+
 /* Paragraph font size  */
 p {
     font-size: 16px;
 }
 
+/* The background Image, right under the nav bar. */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,22 +62,26 @@ p {
     background-position: center;
 }
 
+/* for photos in the articles to be on left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* for photos in the articles to be on right */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* the section tag in index.html */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* The Aside tag in index.html */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -134,6 +141,7 @@ p {
     max-width: 150px;
 }
 
+/* the articles */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -188,6 +196,8 @@ p {
     font-size: 36px;
 }
 
+
+/* footer */
 .footer {
     padding: 30px;
     clear: both;
