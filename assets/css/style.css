@@ -1,9 +1,10 @@
+/* The universals. They allow the headings to fit to screen */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* page background color */
 body {
     background-color: #d9dcd6;
 }
