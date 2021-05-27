@@ -10,7 +10,8 @@ I've been assigned to refactor a website for the company, Horiseon. Mostly every
 ## Installation
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 ## Usage
-Access the website by clicking the URL. 
+Access the website by clicking the URL.
+https://keith-l-watford.github.io/horiseon-refactor/
 ## Credits
 I used https://favicon.io/ to create a custom "H" favicon. 
 ## License
