@@ -17,7 +17,7 @@ Access the website by clicking the URL.
 https://keith-l-watford.github.io/horiseon-refactor/
 
 Heres a screenshot of what it should look like:
-![A screenshot of the running website](assets/images/Horiseon-screenshot.png?raw=true "Horiseon Screenshot")
+![A screenshot of the running website](assets/images/screenshot-horiseon-refactor.png?raw=true "Horiseon Screenshot")
 ## Credits
 I used https://favicon.io/ to create a custom "H" favicon. 
 ## License
